@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <logindetails>
+    <username>abc</username>
+    <password>A9993E364706816ABA3E25717850C26C9CD0D89D</password>
+  </logindetails>
+  <logindetails>
+    <username>akash</username>
+    <password>E4CF979CF717FD295F4E4EDC427EE1AEE78FA7DC</password>
+  </logindetails>
+  <logindetails>
+    <username>kutli</username>
+    <password>2004B689A10B64055C68EC3B3976480AB9F25201</password>
+  </logindetails>
+  <logindetails>
+    <username>xyz</username>
+    <password>66B27417D37E024C46526C2F6D358A754FC552F3</password>
+  </logindetails>
+</users>
